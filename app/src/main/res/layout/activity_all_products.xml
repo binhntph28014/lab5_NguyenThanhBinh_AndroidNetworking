@@ -12,7 +12,7 @@
         android:layout_width="411dp"
         android:layout_height="?attr/actionBarSize"
         android:background="@color/black"
-        app:title="Lab6_Bai2"
+        app:title="Lab5_Bai2"
         app:titleTextColor="@color/white">
 
         <ImageView
